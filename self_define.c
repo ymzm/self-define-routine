@@ -1,3 +1,4 @@
+#include "self_define.h"
 
 void tcpClientTask(conn_obj *connInfo)
 {
